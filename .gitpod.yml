@@ -12,5 +12,4 @@ image:
 #    - fwcd.kotlin@0.2.11:moh8IDanzsIlhtK2IeiLmQ==
 vscode:
   extensions:
-    - mathiasfrohlich.Kotlin
     - fwcd.kotlin
